@@ -56,7 +56,7 @@ Understanding this volatility has applications in:
 | Extended (8 states, 50% flip) | 22.2% | 77.8% | 284 | 299 |
 
 ### Insights
-- The election outcome was highly sensitive to small changes—essentially a coin flip with adjusted swing states
+- The election outcome was highly sensitive to small changes, essentially a coin flip with adjusted swing states
 - Flipping just 4 key swing states produced near 50/50 outcomes in base scenario
 - Higher flip probability (80%) dramatically shifted win probability, revealing the narrow margin of victory
 - Adding more swing states increased outcome volatility, demonstrating the Electoral College's vulnerability to regional shifts
@@ -92,10 +92,18 @@ Understanding this volatility has applications in:
 
 ## Project Structure
 ```
-├── Presidential_Elections.ipynb    # Main simulation notebook
-└── README.md                        # Project documentation
+2016-Electoral-College-Simulation/
+│
+├── Presidential_Elections.ipynb    # Main Monte Carlo simulation notebook
+│                                   # Contains data pipeline, simulation engine,
+│                                   # and visualization code
+│
+├── README.md                       # Technical documentation for developers
+│                                   # Architecture, methodology, and setup instructions
+│
+└── BUSINESS_ANALYSIS.md           # Executive summary and business insights
+                                    # Non-technical analysis of electoral volatility
 ```
-
 ## How to Run
 
 ### Prerequisites

@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-The 2016 US Presidential Election is remembered as one of the most surprising outcomes in modern political history. But how fragile was that result? This analysis reveals that the election outcome was essentially a **coin flip** — small changes in just four states could have completely reversed the result.
+The 2016 US Presidential Election is remembered as one of the most surprising outcomes in modern political history. But how fragile was that result? This analysis reveals that the election outcome was essentially a **coin flip**, small changes in just four states could have completely reversed the result.
 
 Using data-driven simulation across 1,000 scenarios, this project quantifies the electoral volatility that defined 2016 and provides insights into how narrow margins in swing states create enormous outcome uncertainty.
 
@@ -12,7 +12,7 @@ Using data-driven simulation across 1,000 scenarios, this project quantifies the
 
 **"What if just a few thousand voters in key states had voted differently?"**
 
-This isn't speculation—it's mathematics. By analyzing historical voting data and running thousands of simulations, we can measure exactly how sensitive the 2016 election outcome was to small regional changes.
+This isn't speculation! It's mathematics. By analyzing historical voting data and running thousands of simulations, we can measure exactly how sensitive the 2016 election outcome was to small regional changes.
 
 ---
 
@@ -114,11 +114,11 @@ Every close election reinforces that democratic outcomes can hinge on microscopi
 
 ## The Bottom Line
 
-The 2016 election wasn't a landslide or a clear mandate—it was a **statistical tie** decided by the geographic distribution of 77,000 votes. 
+The 2016 election wasn't a landslide or a clear mandate. It was a **statistical tie** decided by the geographic distribution of 77,000 votes. 
 
 Our simulation proves what political operatives have always known intuitively: in American presidential politics, **location matters more than numbers**, and **margins matter more than mandates**.
 
-Understanding this isn't just interesting—it's essential for anyone trying to predict, influence, or invest around American political outcomes.
+Understanding this isn't just interesting, it's essential for anyone trying to predict, influence, or invest around American political outcomes.
 
 ---
 
